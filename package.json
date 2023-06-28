@@ -1,5 +1,5 @@
 {
-  "name": "leanDemo",
+  "name": "lean_demo",
   "private": true,
   "scripts": {
     "build": "nuxt build",
